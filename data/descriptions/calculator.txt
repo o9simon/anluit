@@ -1,0 +1,1 @@
+Click on 'Calculator'. Tap on the image with the description '7'. Tap on the image with the description 'plus'. Tap on the image with the description '3'. Tap on the image with the description 'equal'. Make sure that the textbox contains the text '=10'.

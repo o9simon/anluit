@@ -1,0 +1,1 @@
+Click on 'Memo'. Click on the textview with the description 'Create memo'. Write the text 'asdf' in the textbox. Click on 'Save'.

@@ -1,0 +1,2 @@
+Verify that '1' is equal to '1'. Verify that '2' is greater than '1'. Verify that '1' smaller than '100'. Assert that 'banana' matches the text 'banana'.
+Check if '3' is bigger than '2'. See if '2' equals '2'.

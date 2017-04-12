@@ -1,0 +1,4 @@
+*.class
+cg/bin/
+nlp/bin/
+tr/bin/
